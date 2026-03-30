@@ -1,0 +1,5 @@
+User-agent: *
+Crawl-delay: 4
+Disallow: /tmp
+Disallow: /admin
+Sitemap: https://oldsnakenewtrik.github.io/cloudmesh-mesh-node-2/sitemap.xml
